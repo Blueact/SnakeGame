@@ -150,6 +150,6 @@ def main():
         pygame.display.flip()
         clock.tick(SPEED)
 
-
+#稍微修改
 if __name__ == "__main__":
     main()
